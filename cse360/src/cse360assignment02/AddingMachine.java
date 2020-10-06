@@ -1,3 +1,7 @@
+/*Gerik Swenson
+ *CSE360
+ * 10/5/20
+ */
 package cse360assignment02;
 
 public class AddingMachine 
@@ -22,7 +26,6 @@ public class AddingMachine
   {
 	  total = total + value;
 	  stng += "+ " + value + " ";
-	  
   }
   
   /*This method subtracts from total
